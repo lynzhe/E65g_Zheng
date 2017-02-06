@@ -1,14 +1,14 @@
 //
-//  SecondViewController.swift
-//  Assignment1
+//  ViewController.swift
+//  Lecture1
 //
-//  Created by Van Simmons on 1/15/17.
-//  Copyright © 2017 Harvard Division of Continuing Education. All rights reserved.
+//  Created by Lyn Zheng on 1/23/17.
+//  Copyright © 2017 Folayan Zheng. All rights reserved.
 //
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
